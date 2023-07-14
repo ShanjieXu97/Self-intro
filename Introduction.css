@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+
+.img-Self-picture {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.img-UFV {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.img-Courses {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid rgb(6, 196, 238);
+}
+
+.img-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
